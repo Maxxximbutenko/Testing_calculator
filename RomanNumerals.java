@@ -18,14 +18,6 @@ public class RomanNumerals {
         map.put(50, "L");
         map.put(90, "XC");
         map.put(100, "C");
-
-
-
-
-
-
-
-
     }
 
     private static List<String> roman = new ArrayList<String>();
